@@ -1,0 +1,13 @@
+---
+Request Header:
+  session_token:  SOME_SESSION_TOKEN
+  header_Content-Type:  application/json; charset=UTF-8
+  header_Accept:  application/json
+Event Types:
+  - Horse Racing
+Time Range:
+  - 1h
+Cycle:
+  - 60
+Test:
+  - PCT>10

@@ -1,0 +1,22 @@
+[   {
+      "eventType": {
+         "id": "3503",
+         "name": "Darts"
+      },
+      "marketCount": 20
+   },
+   {
+      "eventType": {
+         "id": "26420387",
+         "name": "Mixed Martial Arts"
+      },
+      "marketCount": 24
+   },
+   {
+      "eventType": {
+         "id": "2378961",
+         "name": "Politics"
+      },
+      "marketCount": 60
+   }
+]
